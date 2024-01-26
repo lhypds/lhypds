@@ -1,9 +1,9 @@
 ### Hi there, I'm 318yang. 👋
 
 What I'm doing and going to do next:  
-- 🔭 Working on [simple-ai.io](https://simple-ai.io), try hard and release within 2023.  
-- 🌱 Learning some Web3 / smart contract knowledges.  
-- 📱 Build an APP that can monitoring the body status / cycles / human emotion.  
+- 🔭 Working on [simple-ai.io](https://simple-ai.io), try hard and release within 2023. (Done)
+- 🌱 Learning some Web3 / smart contract knowledges. (Pending)  
+- 📱 Build an APP that can monitoring the body status / cycles / human emotion. (Pending)  
 
 <!--
 **lhypds/lhypds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
