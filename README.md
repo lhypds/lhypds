@@ -1,7 +1,7 @@
 ### Hi there, I'm 318yang (or lhypds). 👋
 
 Updates:  
-- Relased npm package [`simple-ai-chat`](https://www.npmjs.com/package/simple-ai-chat), use `spchat` command.
+- Relased npm package [`simple-ai-chat`](https://www.npmjs.com/package/simple-ai-chat). Use `spchat` command.  
 
 Next:  
 - Add MVC support to `simple-ai-chat`.  
