@@ -12,7 +12,7 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 - [x] Building the official WeChat mini application for Disney and Harry Potter theme park. 🧙  
   Released.
 
-- [x] `tcopy` for file transfering.
+- [x] `tcopy` for file transfering.  
   Released a usable version. Transfer text and files from any machine to any machine in a high speed.  
   
 - [x] Reforming `gcc3.com`, create it as a tiny blog application.  
