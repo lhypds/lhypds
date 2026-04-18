@@ -7,8 +7,6 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 2026
 ----
 
-- [ ] Research subjects on bio-related AI.
-
 - [x] Building the official WeChat mini application for Disney and Harry Potter theme park. 🧙  
   Released.
 
@@ -26,3 +24,5 @@ Developer's home: [gcc³.com](https://gcc3.com/)
   
 - [x] Simple AI, refactoring tasks.  
   Add rich features to Simple AI CLI.  
+
+- [ ] Research subjects on bio-related AI.
