@@ -7,7 +7,7 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 2026
 ----
 
-- [x] Building the official WeChat mini application for Disney and Harry Potter theme park. 🧙  
+- [x] Building the official WeChat mini application for Tokyo Disney and Harry Potter theme park. 🧙  
   Released.
 
 - [x] `tcopy` for file transfering.  
