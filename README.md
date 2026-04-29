@@ -10,7 +10,7 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 - [x] Building the official WeChat mini application for Tokyo Disney and Harry Potter theme park. 🧙  
   Released.
 
-- [x] Create a AI survey tool [q](https://github.com/lhypds/q).  
+- [x] Create a AI survey tool `q`.  
   Published to [q.gcc3.com](https://q.gcc3.com).  
 
 - [x] [tcopy](https://github.com/lhypds/tcopy) for file transfering.  
