@@ -7,6 +7,8 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 2026
 ----
 
+- [ ] Create an application that integrates the Simple AI CLI with the Even G2 smart glasses.  
+
 - [x] Building the official WeChat mini application for Tokyo Disney and Harry Potter theme park. 🧙  
   Released.
 
