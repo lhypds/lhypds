@@ -7,10 +7,10 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 2026
 ----
 
-- [x] Create a self-hosted dashboard web application that get data from multile sources in realtime.
+- [x] Create a self-hosted dashboard web application that get data from multile sources in realtime.  
   Created proejct [liveboard](https://github.com/lhypds/liveboard) and [liveboard-mode](https://github.com/lhypds/liveboard-mod).  
 
-- [x] Create an application that integrates the Simple AI CLI with the [Even G2](https://www.evenrealities.com/) smart glasses.
+- [x] Create an application that integrates the Simple AI CLI with the [Even G2](https://www.evenrealities.com/) smart glasses.  
   Released to [Even Hub](https://hub.evenrealities.com/).  
 
 - [x] Building the official WeChat mini application for Tokyo Disney and Harry Potter theme park. 🧙  
