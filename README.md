@@ -8,7 +8,7 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 ----
 
 - [x] Create a self-hosted dashboard web application that get data from multile sources in realtime.  
-  Created proejct [liveboard](https://github.com/lhypds/liveboard) and [liveboard-mod](https://github.com/lhypds/liveboard-mod-basic).  
+  Created proejct [liveboard](https://github.com/lhypds/liveboard) and [liveboard-mod-basic](https://github.com/lhypds/liveboard-mod-basic).  
 
 - [x] Create an application that integrates the Simple AI CLI with the [Even G2](https://www.evenrealities.com/) smart glasses.  
   Released to [Even Hub](https://hub.evenrealities.com/).  
