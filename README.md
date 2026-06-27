@@ -7,6 +7,9 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 2026
 ----
 
+- [x] Create a automation tool for operate any desktop applications with AI.  
+  Created proejct [pob](https://github.com/lhypds/pob).  
+
 - [x] Create a self-hosted dashboard web application that get data from multile sources in realtime.  
   Created proejct [liveboard](https://github.com/lhypds/liveboard) and [liveboard-mod-basic](https://github.com/lhypds/liveboard-mod-basic).  
 
