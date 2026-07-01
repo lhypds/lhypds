@@ -14,7 +14,7 @@ Developer's home: [gcc³.com](https://gcc3.com/)
   Created proejct [liveboard](https://github.com/lhypds/liveboard) and [liveboard-mod-basic](https://github.com/lhypds/liveboard-mod-basic).  
 
 - [x] Create an application that integrates the Simple AI CLI with the [Even G2](https://www.evenrealities.com/) smart glasses.  
-  Released to [Even Hub](https://hub.evenrealities.com/).  
+  Created project [sc-even](https://github.com/gcc3/sc-even), released to [Even Hub](https://hub.evenrealities.com/).  
 
 - [x] Building the official WeChat mini application for Tokyo Disney and Harry Potter theme park. 🧙  
   Released.
