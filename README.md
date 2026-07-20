@@ -7,7 +7,7 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 2026
 ----
 
-- [x] Create a bookmark tool, can save URLs, short videos links, iOS/Android apps across platform.
+- [x] Create a bookmark tool, can save URLs, short videos links, iOS/Android apps across platform.  
   Created project [stash](https://github.com/lhypds/stash).
 
 - [x] Create an automation tool for operate any desktop applications with AI.  
