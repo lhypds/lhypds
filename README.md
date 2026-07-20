@@ -7,7 +7,10 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 2026
 ----
 
-- [x] Create a automation tool for operate any desktop applications with AI.  
+- [x] Create a bookmark tool, can save URLs, short videos links, iOS/Android apps across platform.
+  Created project [stash](https://github.com/lhypds/stash).
+
+- [x] Create an automation tool for operate any desktop applications with AI.  
   Created proejct [pob](https://github.com/lhypds/pob).  
 
 - [x] Create a self-hosted dashboard web application that get data from multile sources in realtime.  
