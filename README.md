@@ -10,9 +10,6 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 - [ ] Build travel web application, tata travel 🦦.   
   Building in progress...
 
-- [x] Build the official WeChat mini application for Tokyo Disney and Harry Potter theme park. 🧙  
-  Released.
-
 - [x] Stashing things like pages, posts, videos, channels, and mobile apps — into a personal, shareable collection..  
   Created project [stash](https://github.com/lhypds/stash).
 
@@ -20,13 +17,16 @@ Developer's home: [gcc³.com](https://gcc3.com/)
   Created proejct [pob](https://github.com/lhypds/pob).  
 
 - [x] Create a self-hosted dashboard web application that get data from multile sources in realtime.  
-  Created proejct [liveboard](https://github.com/lhypds/liveboard) and [liveboard-mod-basic](https://github.com/lhypds/liveboard-mod-basic), [liveboard-mod-calc](https://github.com/lhypds/liveboard-mod-calc).  
+  Created proejct [liveboard](https://github.com/lhypds/liveboard) and modules [liveboard-mod-basic](https://github.com/lhypds/liveboard-mod-basic) and [liveboard-mod-calc](https://github.com/lhypds/liveboard-mod-calc).  
 
-- [x] Create video and web text automation command line tookit.  
-  Created proejct [yt](https://github.com/lhypds/yt) and [ft](https://github.com/lhypds/ft) (fetch text).  
+- [x] Build the official WeChat mini application for Tokyo Disney and Harry Potter theme park. 🧙  
+  Released.
 
 - [x] Create an application that integrates the Simple AI CLI with the [Even G2](https://www.evenrealities.com/) smart glasses.  
   Created project [sc-even](https://github.com/gcc3/sc-even), released to [Even Hub](https://hub.evenrealities.com/).  
+
+- [x] Create video and web text automation command line tookit.  
+  Created proejct [yt](https://github.com/lhypds/yt) and [ft](https://github.com/lhypds/ft) (fetch text).  
 
 - [x] Create a AI survey tool `q`.  
   Published to [q.gcc3.com](https://q.gcc3.com).  
