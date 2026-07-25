@@ -7,20 +7,26 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 2026
 ----
 
-- [x] Create a bookmark tool, can save URLs, short videos links, iOS/Android apps across platform.  
+- [ ] Build travel web application, tata travel 🦦.   
+  Building in progress...
+
+- [x] Build the official WeChat mini application for Tokyo Disney and Harry Potter theme park. 🧙  
+  Released.
+
+- [x] Stashing things like pages, posts, videos, channels, and mobile apps — into a personal, shareable collection..  
   Created project [stash](https://github.com/lhypds/stash).
 
 - [x] Create an automation tool for operate any desktop applications with AI.  
   Created proejct [pob](https://github.com/lhypds/pob).  
 
 - [x] Create a self-hosted dashboard web application that get data from multile sources in realtime.  
-  Created proejct [liveboard](https://github.com/lhypds/liveboard) and [liveboard-mod-basic](https://github.com/lhypds/liveboard-mod-basic).  
+  Created proejct [liveboard](https://github.com/lhypds/liveboard) and [liveboard-mod-basic](https://github.com/lhypds/liveboard-mod-basic), [liveboard-mod-calc](https://github.com/lhypds/liveboard-mod-calc).  
+
+- [x] Create video and web text automation command line tookit.  
+  Created proejct [yt](https://github.com/lhypds/yt) and [ft](https://github.com/lhypds/ft) (fetch text).  
 
 - [x] Create an application that integrates the Simple AI CLI with the [Even G2](https://www.evenrealities.com/) smart glasses.  
   Created project [sc-even](https://github.com/gcc3/sc-even), released to [Even Hub](https://hub.evenrealities.com/).  
-
-- [x] Building the official WeChat mini application for Tokyo Disney and Harry Potter theme park. 🧙  
-  Released.
 
 - [x] Create a AI survey tool `q`.  
   Published to [q.gcc3.com](https://q.gcc3.com).  
