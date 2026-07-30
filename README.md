@@ -14,13 +14,13 @@ Developer's home: [gcc³.com](https://gcc3.com/)
   Create proeject [gift](https://github.com/lhypds/gift).  
 
 - [x] Stashing things like pages, posts, videos, channels, and mobile apps — into a personal, shareable collection..  
-  Created project [stash](https://github.com/lhypds/stash).
+  Created project [stash](https://github.com/lhypds/stash) and deployed to [stash.gcc3.com](https://stash.gcc3.com).  
 
 - [x] Create an automation tool for operate any desktop applications with AI.  
   Created proejct [pob](https://github.com/lhypds/pob).  
 
 - [x] Create a self-hosted dashboard web application that get data from multile sources in realtime.  
-  Created proejct [liveboard](https://github.com/lhypds/liveboard) and modules [liveboard-mod-basic](https://github.com/lhypds/liveboard-mod-basic) and [liveboard-mod-calc](https://github.com/lhypds/liveboard-mod-calc).  
+  Created proejct [liveboard](https://github.com/lhypds/liveboard) and modules [liveboard-mod-basic](https://github.com/lhypds/liveboard-mod-basic) and [liveboard-mod-calc](https://github.com/lhypds/liveboard-mod-calc) and deployed to [liveboard.gcc3.com](https://liveboard.gcc3.com).  
 
 - [x] Build the official WeChat mini application for Tokyo Disney and Harry Potter theme park. 🧙  
   Released.
