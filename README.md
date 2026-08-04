@@ -27,8 +27,8 @@ Developer's home: [gcc³.com](https://gcc3.com/)
   Created proejct [pob](https://github.com/lhypds/pob) and released.    
 
 - [x] Create a self-hosted dashboard web application that get data from multile sources in realtime.  
-  Created proejct [liveboard](https://github.com/lhypds/liveboard).
-  Created modules [liveboard-mod-basic](https://github.com/lhypds/liveboard-mod-basic) and [liveboard-mod-calc](https://github.com/lhypds/liveboard-mod-calc).
+  Created proejct [liveboard](https://github.com/lhypds/liveboard).  
+  Created modules [liveboard-mod-basic](https://github.com/lhypds/liveboard-mod-basic) and [liveboard-mod-calc](https://github.com/lhypds/liveboard-mod-calc).  
   Published to [liveboard.gcc3.com](https://liveboard.gcc3.com).  
 
 - [x] Build the official WeChat mini application for Tokyo Disney and Harry Potter theme park. 🧙  
@@ -40,7 +40,7 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 
 - [x] Create video and web text automation command line tookit.  
   Created proejct [yt](https://github.com/lhypds/yt), for video.  
-  Created project [ft](https://github.com/lhypds/ft) (fetch text).  
+  Created project [ft](https://github.com/lhypds/ft), fetch text.  
 
 - [x] Create a AI survey tool.
   Created proejct [q](https://github.com/lhypds/q).  
