@@ -18,7 +18,6 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 
 - [x] Create a simple GitHub webhooks server, and helper functions for Git and GitHub. 🎁  
   Create proeject [gift](https://github.com/lhypds/gift).  
-  Published to [gift.gcc3.com](https://gift.gcc3.com).  
 
 - [x] Stashing things like pages, posts, videos, channels, and mobile apps — into a personal, shareable collection..  
   Created project [stash](https://github.com/lhypds/stash).  
