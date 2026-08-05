@@ -13,7 +13,7 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 - [ ] Research subjects on bio-related AI.
 
 - [x] Renewal the timeline project data with AI.  
-  Done. Visit [timeline index](https://timline.gcc3.com).  
+  Done. Visit [timeline index](https://timeline.gcc3.com).  
 
 - [x] Build a body event (or common event) monitoring web application. 🪢  
   Create project [tikt](https://github.com/lhypds/tikt).  
