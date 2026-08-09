@@ -12,6 +12,9 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 
 - [ ] Research subjects on bio-related AI.
 
+- [x] Design a AI native script language for [Pob](https://github.com/lhypds/pob).
+  Created [psl](https://github.com/lhypds/psl).  
+
 - [x] Renewal the timeline project data with AI.  
   Done. Visit [timeline index](https://timeline.gcc3.com).  
 
