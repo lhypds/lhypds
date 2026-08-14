@@ -3,7 +3,6 @@ Hi there, I'm 318yang (@lhypds). 👋
 
 Developer's home: [gcc³.com](https://gcc3.com/)  
 
-Pages:  
 [gcc3.com/simple-ai](https://gcc3.com/simple-ai)  
 [gcc3.com/pob](https://gcc3.com/pob)  
 [gcc3.com/psl](https://gcc3.com/psl)  
