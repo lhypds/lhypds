@@ -18,8 +18,6 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 - [ ] Build travel web application, tata travel 🦦.   
   Building in progress... (almost there)  
 
-- [ ] Research subjects on bio-related AI.
-
 - [x] Create a Git repositories management tool.  
   Create function `repo master` in project [gift](https://github.com/lhypds/gift), use `gift repo` to call.
 
@@ -77,3 +75,5 @@ Developer's home: [gcc³.com](https://gcc3.com/)
   
 - [x] [simple ai - chat](https://github.com/gcc3/simple-ai-chat), refactoring tasks and CLI.  
   Add rich features to Simple AI CLI.  
+
+- [ ] Research subjects on bio-related AI.  
