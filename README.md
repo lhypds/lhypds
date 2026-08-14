@@ -10,7 +10,7 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 | [Liveboard](https://gcc3.com/liveboard) | Modular dashboards for live information. |
 | [Tikt](https://gcc3.com/tikt) | Record life events on a timeline. |
 | [Q](https://gcc3.com/q) | AI-powered surveys and response analysis. |
-| [Gift](https://gcc3.com/gift) | Simple Git and GitHub automation. |[Simple AI](https://gcc3.com/simple-ai)  
+| [Gift](https://gcc3.com/gift) | Simple Git and GitHub automation. |
 
 2026
 ----
