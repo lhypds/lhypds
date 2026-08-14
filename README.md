@@ -3,7 +3,6 @@ Hi there, I'm 318yang (@lhypds). 👋
 
 Developer's home: [gcc³.com](https://gcc3.com/)  
 
-｜---|---|
 | [Simple AI](https://gcc3.com/simple-ai) | Multi-provider AI chat for web and CLI. |
 | [Pob](https://gcc3.com/pob) | AI-powered desktop automation. |
 | [PSL](https://gcc3.com/psl) | Embed AI instructions into code and files. |
