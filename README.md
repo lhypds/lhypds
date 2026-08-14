@@ -3,14 +3,16 @@ Hi there, I'm 318yang (@lhypds). 👋
 
 Developer's home: [gcc³.com](https://gcc3.com/)  
 
+|  |  |
+|---|---|
 | [Simple AI](https://gcc3.com/simple-ai) | Multi-provider AI chat for web and CLI. |
 | [Pob](https://gcc3.com/pob) | AI-powered desktop automation. |
-| [PSL](https://gcc3.com/psl) | Embed AI instructions into code and files. |
-| [Stash](https://gcc3.com/stash) | Save and organize anything worth keeping. |
-| [Liveboard](https://gcc3.com/liveboard) | Modular dashboards for live information. |
-| [Tikt](https://gcc3.com/tikt) | Record life events on a timeline. |
-| [Q](https://gcc3.com/q) | AI-powered surveys and response analysis. |
-| [Gift](https://gcc3.com/gift) | Simple Git and GitHub automation. |
+| [psl](https://gcc3.com/psl) | Embed AI instructions into code and files. |
+| [stash](https://gcc3.com/stash) | Save and organize anything worth keeping. |
+| [liveboard](https://gcc3.com/liveboard) | Modular dashboards for live information. |
+| [tikt](https://gcc3.com/tikt) | Record life events on a timeline. |
+| [q](https://gcc3.com/q) | AI-powered surveys and response analysis. |
+| [gift](https://gcc3.com/gift) | Simple Git and GitHub automation. |
 
 2026
 ----
