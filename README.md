@@ -3,14 +3,14 @@ Hi there, I'm 318yang (@lhypds). 👋
 
 Developer's home: [gcc³.com](https://gcc3.com/)  
 
-[gcc3.com/simple-ai](https://gcc3.com/simple-ai)  
-[gcc3.com/pob](https://gcc3.com/pob)  
-[gcc3.com/psl](https://gcc3.com/psl)  
-[gcc3.com/stash](https://gcc3.com/stash)  
-[gcc3.com/liveboard](https://gcc3.com/liveboard)  
-[gcc3.com/tikt](https://gcc3.com/tikt)  
-[gcc3.com/q](https://gcc3.com/q)  
-[gcc3.com/gift](https://gcc3.com/gift)  
+[Simple AI](https://gcc3.com/simple-ai)  
+[Pob](https://gcc3.com/pob)  
+[psl](https://gcc3.com/psl)  
+[stash](https://gcc3.com/stash)  
+[liveboard](https://gcc3.com/liveboard)  
+[tikt](https://gcc3.com/tikt)  
+[q](https://gcc3.com/q)  
+[gift](https://gcc3.com/gift)  
 
 2026
 ----
