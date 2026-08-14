@@ -3,6 +3,15 @@ Hi there, I'm 318yang (@lhypds). 👋
 
 Developer's home: [gcc³.com](https://gcc3.com/)  
 
+Pages:  
+[gcc3.com/simple-ai](https://gcc3.com/simple-ai)  
+[gcc3.com/pob](https://gcc3.com/pob)  
+[gcc3.com/psl](https://gcc3.com/psl)  
+[gcc3.com/stash](https://gcc3.com/stash)  
+[gcc3.com/liveboard](https://gcc3.com/liveboard)  
+[gcc3.com/tikt](https://gcc3.com/tikt)  
+[gcc3.com/q](https://gcc3.com/q)  
+[gcc3.com/gift](https://gcc3.com/gift)  
 
 2026
 ----
@@ -11,6 +20,9 @@ Developer's home: [gcc³.com](https://gcc3.com/)
   Building in progress... (almost there)  
 
 - [ ] Research subjects on bio-related AI.
+
+- [x] Create a Git repositories management tool.  
+  Create function `repo master` in project [gift](https://github.com/lhypds/gift), use `gift repo` to call.
 
 - [x] Design a AI native script language for [Pob](https://github.com/lhypds/pob).  
   Created [PSL](https://github.com/lhypds/psl) (Prompt Script Language) and [Macro PSL](https://github.com/lhypds/pob/blob/master/docs/Macro%20PSL/01_Macro%20PSL.md). 
