@@ -15,8 +15,8 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 2026
 ----
 
-- [ ] Build travel web application, tata travel 🦦.   
-  Building in progress... (almost there)  
+- [x] Build travel web application, tata travel 🦦.   
+  Released.
 
 - [x] Create a Git repositories management tool.  
   Create function `repo master` in project [gift](https://github.com/lhypds/gift), use `gift repo` to call.
