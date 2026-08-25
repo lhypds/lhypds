@@ -11,9 +11,14 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 [tikt](https://gcc3.com/tikt) - Record life events on a timeline.  
 [q](https://gcc3.com/q) - AI-powered surveys and response analysis.  
 [gift](https://gcc3.com/gift) - Simple Git and GitHub automation.  
+[lo](https://gcc3.com/lo) - Location based information app.  
 
 2026
 ----
+
+- [x] Build a location based web app.
+  Created project [lo](https://github.com/lhypds/lo)
+  Released to [lo.gcc3.com](https://lo.gcc3.com).
 
 - [x] Build travel web application, tata travel 🦦.   
   Released.
