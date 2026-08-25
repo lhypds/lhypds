@@ -16,9 +16,9 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 2026
 ----
 
-- [x] Build a location based web app.
-  Created project [lo](https://github.com/lhypds/lo)
-  Released to [lo.gcc3.com](https://lo.gcc3.com).
+- [x] Build a location based web app.  
+  Created project [lo](https://github.com/lhypds/lo)  
+  Released to [lo.gcc3.com](https://lo.gcc3.com).  
 
 - [x] Build travel web application, tata travel 🦦.   
   Released.
