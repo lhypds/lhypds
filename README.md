@@ -17,8 +17,8 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 ----
 
 - [x] Build a location based web app.  
-  Created project [lo](https://github.com/lhypds/lo)  
-  Released to [lo.gcc3.com](https://lo.gcc3.com).  
+  Created project [lo](https://github.com/lhypds/lo) and [lo-even](https://github.com/lhypds/lo-even).
+  Released to [lo.gcc3.com](https://lo.gcc3.com) and [Even Hub](https://hub.evenrealities.com/).  
 
 - [x] Build travel web application, tata travel 🦦.   
   Released.
