@@ -17,7 +17,7 @@ Developer's home: [gcc³.com](https://gcc3.com/)
 2026
 ----
 
-- [x] Create a collection of GitHub code heros.
+- [x] Create a collection of GitHub code heros.  
   Created project [heroes](https://github.com/lhypds/heroes) and released it to [heroes.gcc3.com](https://heroes.gcc3.com).  
 
 - [x] Build a smart glasses version of [lo](https://gcc3.com/lo), and send to [OBJ](https://www.obj.co.jp/).  
