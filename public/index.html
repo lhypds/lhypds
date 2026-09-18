@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width">
   <title>Heyang Liu</title>
   <meta name="description" content="Heyang Liu — full-stack developer, AI application developer and IT consultant at gcc³ labo.">
   <meta property="og:type" content="website">
@@ -12,8 +12,35 @@
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23000'/%3E%3Ctext x='16' y='22' font-family='monospace' font-size='18' font-weight='700' fill='%23fff' text-anchor='middle'%3Eg%3C/text%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+  <link rel="preload" href="fonts/inter-500-latin.woff2" as="font" type="font/woff2" crossorigin>
   <style>
+    /* Same Inter build and fallback metrics that Framer serves on jckhlry.com */
+    @font-face {
+      font-family: "Inter";
+      src: url("fonts/inter-500-latin.woff2") format("woff2");
+      font-display: swap;
+      font-style: normal;
+      font-weight: 500;
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2070, U+2074-207E, U+2080-208E, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+    @font-face {
+      font-family: "Inter";
+      src: url("fonts/inter-500-latin-ext.woff2") format("woff2");
+      font-display: swap;
+      font-style: normal;
+      font-weight: 500;
+      unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+    @font-face {
+      font-family: "Inter Placeholder";
+      src: local("Arial");
+      ascent-override: 89.79%;
+      descent-override: 22.36%;
+      line-gap-override: 0%;
+      size-adjust: 107.89%;
+    }
+
     :root {
       --bg: #fff;
       --ink: #000;
@@ -31,11 +58,14 @@
 
     html, body { background: var(--bg); }
 
+    /* Keep iOS Safari from enlarging text in landscape */
+    html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+
     body {
-      font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-family: "Inter", "Inter Placeholder", sans-serif;
       font-size: 12px;
       font-weight: 500;
-      line-height: 1.25;
+      line-height: 1.2em;
       color: var(--ink);
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
@@ -43,7 +73,6 @@
 
     .page {
       min-height: 100vh;
-      min-height: 100svh;
       display: flex;
       align-items: center;
       justify-content: center;
@@ -71,8 +100,13 @@
     .mark sup { font-size: 8px; line-height: 0; vertical-align: 5px; }
     .mark .sub { margin-left: 6px; font-size: 9px; color: var(--ink-50); }
 
-    .intro p + p { margin-top: 0; }
-    .intro .gap { margin-top: 15px; }
+    .intro p, .links .label {
+      white-space: pre-wrap;
+      word-break: break-word;
+      overflow-wrap: break-word;
+    }
+    /* A blank text line (not a margin), as Framer does, so spacing rounds exactly like a line */
+    .intro .gap::before { content: "\A"; }
     .intro .soft { color: var(--ink-75); }
     .intro .faint { color: var(--ink-50); }
 
@@ -87,9 +121,8 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      gap: 16px;
     }
-    .row > span { white-space: nowrap; }
+    .row > span { white-space: pre; }
 
     .pill {
       display: inline-block;
@@ -97,7 +130,7 @@
       background: var(--pill-bg);
       color: var(--pill-ink);
       text-decoration: none;
-      white-space: nowrap;
+      white-space: pre;
       cursor: pointer;
       transition: background-color 0.4s var(--ease-spring);
     }
