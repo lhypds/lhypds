@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Heyang Liu</title>
+  <meta name="description" content="Heyang Liu — full-stack developer, AI application developer and IT consultant at gcc³ labo.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Heyang Liu">
+  <meta property="og:description" content="Full-stack developer, AI application developer and IT consultant at gcc³ labo.">
+  <meta property="og:url" content="https://gcc3.com/">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23000'/%3E%3Ctext x='16' y='22' font-family='monospace' font-size='18' font-weight='700' fill='%23fff' text-anchor='middle'%3Eg%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #fff;
+      --ink: #000;
+      --ink-75: rgba(0, 0, 0, 0.75);
+      --ink-50: rgba(0, 0, 0, 0.5);
+      --label: rgb(127, 127, 127);
+      --pill-bg: #000;
+      --pill-bg-hover: #333;
+      --pill-ink: #fff;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body { background: var(--bg); }
+
+    body {
+      font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+      font-size: 12px;
+      font-weight: 500;
+      line-height: 1.25;
+      color: var(--ink);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    .page {
+      min-height: 100vh;
+      min-height: 100svh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 25px;
+    }
+
+    .content {
+      width: 100%;
+      max-width: 600px;
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      animation: appear 0.8s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+    }
+
+    .mark {
+      display: inline-block;
+      width: fit-content;
+      font-family: "IBM Plex Mono", ui-monospace, monospace;
+      font-size: 13px;
+      line-height: 1;
+      color: var(--ink);
+      text-decoration: none;
+    }
+    .mark sup { font-size: 8px; line-height: 0; vertical-align: 5px; }
+    .mark .sub { margin-left: 6px; font-size: 9px; color: var(--ink-50); }
+
+    .intro p + p { margin-top: 0; }
+    .intro .gap { margin-top: 15px; }
+    .intro .soft { color: var(--ink-75); }
+    .intro .faint { color: var(--ink-50); }
+
+    .links {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+    .links .label { color: var(--label); }
+
+    .row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+    }
+    .row > span { white-space: nowrap; }
+
+    .pill {
+      display: inline-block;
+      padding: 2px 5px;
+      background: var(--pill-bg);
+      color: var(--pill-ink);
+      text-decoration: none;
+      white-space: nowrap;
+      transition: background-color 0.15s ease;
+    }
+    .pill:hover { background: var(--pill-bg-hover); }
+    .pill:focus-visible { outline: 1px solid var(--ink); outline-offset: 2px; }
+
+    @keyframes appear {
+      from { opacity: 0; transform: translateY(8px); }
+      to   { opacity: 1; transform: none; }
+    }
+
+    @media (max-width: 809.98px) {
+      .page { align-items: flex-start; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .content { animation: none; }
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+    <div class="content">
+      <a class="mark" href="https://gcc3.com/" aria-label="gcc³ labo">gcc<sup>3</sup><span class="sub">labo</span></a>
+
+      <div class="intro">
+        <p>Heyang Liu</p>
+        <p class="soft gap">Japan-based full-stack developer and AI application developer.</p>
+        <p class="soft">I design and build web apps, AI tools and automation — from multi-provider AI chat and desktop automation to live dashboards and location-based apps.</p>
+        <p class="faint gap">Full-stack development \ AI applications \ IT consulting</p>
+      </div>
+
+      <section class="links" aria-label="Contact">
+        <p class="label">Contact:</p>
+        <div class="row">
+          <span>Email:</span>
+          <a class="pill" href="mailto:Heyang.liu@gcc3.com">Heyang.liu@gcc3.com</a>
+        </div>
+        <div class="row">
+          <span>Web:</span>
+          <a class="pill" href="https://gcc3.com/" target="_blank" rel="noopener">gcc3.com</a>
+        </div>
+        <div class="row">
+          <span>GitHub:</span>
+          <a class="pill" href="https://github.com/lhypds" target="_blank" rel="noopener">@lhypds</a>
+        </div>
+        <div class="row">
+          <span>Twitter:</span>
+          <a class="pill" href="https://x.com/318yang" target="_blank" rel="noopener">@318yang</a>
+        </div>
+      </section>
+    </div>
+  </main>
+</body>
+</html>
