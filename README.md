@@ -1,5 +1,5 @@
 
-Hi, I'm 318yang (gh: @lhypds). 👋  
+Hi, I'm 318yang (gh: [@lhypds](https://github.com/lhypds)). 👋  
 
 Homepage: [lhypds.com](https://lhypds.com)  
 Portfolio: [gcc³.com](https://gcc3.com/)  
