@@ -1,7 +1,7 @@
 
 Hi, I'm 318yang (gh: @lhypds). 👋  
 
-Homepage: [lhypds.com](https://lhypds.com)
+Homepage: [lhypds.com](https://lhypds.com)  
 Portfolio: [gcc³.com](https://gcc3.com/)  
 
 [Simple AI](https://gcc3.com/simple-ai) - Multi-provider AI chat for web and CLI.  
