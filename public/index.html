@@ -56,7 +56,7 @@
       display: flex;
       flex-direction: column;
       gap: 30px;
-      animation: appear 0.8s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+      animation: appear 0.4s var(--ease-spring) both;
     }
 
     .mark {
@@ -105,16 +105,12 @@
     .pill:focus-visible { outline: 1px solid var(--ink); outline-offset: 2px; }
 
     @keyframes appear {
-      from { opacity: 0; transform: translateY(8px); }
-      to   { opacity: 1; transform: none; }
+      from { opacity: 0.001; }
+      to   { opacity: 1; }
     }
 
     @media (max-width: 809.98px) {
       .page { align-items: flex-start; }
-    }
-
-    @media (prefers-reduced-motion: reduce) {
-      .content { animation: none; }
     }
   </style>
 </head>
