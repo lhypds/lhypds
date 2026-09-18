@@ -21,8 +21,10 @@
       --ink-50: rgba(0, 0, 0, 0.5);
       --label: rgb(127, 127, 127);
       --pill-bg: #000;
-      --pill-bg-hover: #333;
+      --pill-bg-hover: rgba(0, 0, 0, 0.5);
       --pill-ink: #fff;
+      /* Framer spring { duration: 0.4, bounce: 0.2 } sampled every 10ms, as motion does for WAAPI */
+      --ease-spring: linear(0, 0.0235, 0.083, 0.1647, 0.2582, 0.3557, 0.4517, 0.5423, 0.6252, 0.6991, 0.7636, 0.8186, 0.8647, 0.9025, 0.933, 0.9571, 0.9756, 0.9895, 0.9996, 1.0065, 1.0111, 1.0137, 1.0149, 1.0151, 1.0146, 1.0136, 1.0123, 1.0108, 1.0093, 1.0079, 1.0066, 1.0053, 1.0043, 1.0033, 1.0025, 1.0019, 1.0013, 1.0009, 1.0006, 1);
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -96,7 +98,8 @@
       color: var(--pill-ink);
       text-decoration: none;
       white-space: nowrap;
-      transition: background-color 0.15s ease;
+      cursor: pointer;
+      transition: background-color 0.4s var(--ease-spring);
     }
     .pill:hover { background: var(--pill-bg-hover); }
     .pill:focus-visible { outline: 1px solid var(--ink); outline-offset: 2px; }
