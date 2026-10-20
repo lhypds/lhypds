@@ -19,6 +19,9 @@ Selected works:
 2026
 ----
 
+- [x] Create a fin tech simple accouting and reconcliation system.  
+  Created project [fin](https://github.com/lhypds/fin).  
+
 - [x] Create a collection of GitHub code heros.  
   Created project [heroes](https://github.com/lhypds/heroes) and released it to [heroes.gcc3.com](https://heroes.gcc3.com).  
 
