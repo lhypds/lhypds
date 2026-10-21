@@ -19,8 +19,8 @@ Selected works:
 2026
 ----
 
-- [X] Create a macOS voice recognition application.
-  Designed and created [voiced](https://github.com/lhypds/voiced).
+- [X] Create a macOS voice recognition application.  
+  Designed and created [voiced](https://github.com/lhypds/voiced).  
 
 - [x] Create a fin tech simple accouting and reconcliation system.  
   Created project [fin](https://github.com/lhypds/fin).  
