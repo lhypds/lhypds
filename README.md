@@ -19,6 +19,9 @@ Selected works:
 2026
 ----
 
+- [x] Create a task management CLI and web application.  
+  Created [tm](https://github.com/lhypds/tm) from original taskmgr.  
+
 - [X] Create a macOS voice recognition application.  
   Designed and created [voiced](https://github.com/lhypds/voiced).  
 
